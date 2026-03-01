@@ -24,7 +24,7 @@ export function TerminalView({ session }: TerminalViewProps) {
         background: '#1e1e1e',
         foreground: '#d4d4d4',
         cursor: '#aeafad',
-        selection: '#264f78',
+        selectionBackground: '#264f78',
       },
       fontSize: 14,
       fontFamily: 'Monaco, Menlo, "Ubuntu Mono", monospace',
